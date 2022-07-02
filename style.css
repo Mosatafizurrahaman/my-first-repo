@@ -1,3 +1,7 @@
 body{
     background: #ddd;
 }
+img{
+    width: 160px;
+    height: auto;
+}
